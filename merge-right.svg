@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <path fill="#000" d="M0 0h80v80H0z"/>
+  <!-- Merge right -->
+  <path d="M20.657 14L15 19.657 43.284 47.94l5.657-5.657L20.657 14zm34.749 40.406h-28v8h36v-36h-8v28z" fill="#FFF"/>
+</svg>

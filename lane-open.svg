@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <path fill="#000" d="M0 0h80v80H0z"/>
+  <!-- Lane open -->
+  <path d="M36 8h8v40h-8V8zm4 53.142l19.799-19.799L65.456 47 40 72.456 14.544 47l5.657-5.657L40 61.143z" fill="#3EDF4E"/>
+</svg>
