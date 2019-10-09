@@ -1,0 +1,8 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <path fill="#000" d="M0 0h80v80H0z"/>
+  <!-- Speed limit -->
+  <text font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFF">
+    <tspan x="40" y="49">80</tspan>
+  </text>
+</svg>

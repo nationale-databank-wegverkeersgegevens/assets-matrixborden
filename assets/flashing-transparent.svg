@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <path fill="transparent" d="M0 0h80v80H0z"/>
+  <!-- Flashing -->
+  <path d="M76 79a3 3 0 1 1 0-6 3 3 0 0 1 0 6zM4 79a3 3 0 1 1 0-6 3 3 0 0 1 0 6zM4 7a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm72 0a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" fill="#F5A623"/>
+</svg>
